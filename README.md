@@ -1,7 +1,7 @@
 # user-card-generator-CRUD-app
 user card generator basic CRUD app in backend
 
-Step-1: add your name, email, profile picture
+Step-1: add your name, email, profile picture and create
 
 <img width="1919" height="973" alt="Screenshot 2025-08-04 003155" src="https://github.com/user-attachments/assets/2a309a66-e4ec-467b-92ac-03ab271a9ebf" />
 
